@@ -12,6 +12,7 @@ namespace ConsoleApp9
         { 
             
         }
+        static void showMenu() { }
         static void Main(string[] args)
         {
             greeg();
